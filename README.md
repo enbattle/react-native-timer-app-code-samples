@@ -3,6 +3,7 @@ Helpful code samples that I've jumped into during my endeavor to create a novel 
 
 - Custom Switch
 - Draggable List
+  - Double
 - Popover Menu
 - Timer Display
 - Timer Home
