@@ -3,7 +3,7 @@ Helpful code samples that I've jumped into during my endeavor to create a novel 
 
 - Custom Switch
   - Creating a custom switch widget
-  - Key usages: Motify NPM Package
+  - Key usages: [Motify](https://github.com/nandorojo/moti) NPM Package
 - Draggable List
   - Creating a draggable list
   - Key usages: React Native Animated Views, React Native onResponder methods
@@ -12,7 +12,7 @@ Helpful code samples that I've jumped into during my endeavor to create a novel 
   - Key usages: React Native Modal
 - Timer Display
   - Creates progress circles, timer numbers, and mobile notifications
-  - Key usages: Notifee NPM package, React Native Animated Circles)
+  - Key usages: [Notifee](https://notifee.app/) NPM package, React Native Animated Circles)
 - Timer Home
   - Creates typical mobile home screen with timers 
 - Timer Input Handling
